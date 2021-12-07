@@ -1,0 +1,8 @@
+org/spring/boot/starter/SecurityConfig.class
+org/spring/boot/starter/controllers/Controllers.class
+org/spring/boot/starter/WebTestConfig.class
+org/spring/boot/starter/WebConfig.class
+org/spring/boot/starter/Application.class
+org/spring/boot/starter/service/TokenGenerator.class
+org/spring/boot/starter/service/TokenCache.class
+org/spring/boot/starter/controllers/LoginControllers.class
